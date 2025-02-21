@@ -5,7 +5,7 @@ e visualização de dados.
 
 📂 Sobre o Projeto
 
-O objetivo deste projeto é extrair insights relevantes a partir de uma base de dados real, utilizando ferramentas da biblioteca Pandas, Matplotlib, Seaborn e Plotly. A análise foi feita em um Jupyter Notebook e inclui:
+O objetivo deste projeto é extrair insights relevantes a partir de uma base de dados real, utilizando ferramentas da biblioteca Pandas, Plotly. A análise foi feita em um Jupyter Notebook e inclui:
 
 Exploração inicial dos dados (carregamento, verificação de tipos e valores ausentes);
 
